@@ -1,5 +1,10 @@
 # UnityForDummies
-This is a unity guide for starting.
+This is a unity guide for bug fixing, issues and etc.
 
-# The basics
-Assuming you have unity installed from here [unity](https://unity.com)
+# Creating your first project
+Assuming you have [unity](https://unity.com) installed.
+Create a new project, for this guide we are using 2D, so click on 2D.
+
+# Bug fixing and common beginner mistakes
+  # Collisions: 
+  
