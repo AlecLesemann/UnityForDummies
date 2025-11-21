@@ -34,4 +34,4 @@ How to fix - Change it up, Without out a tutorial. Create new lines, maybe you w
 Eg. I want to use overlap circles instead of ontriggers.
 
 # Use documentation
-[Unity doucmentation](https://docs.unity.com/en-us) is the best use case for finding what a method did and finding methods. Like OnTriggerEnter2D, Maybe you forgot the name or how to use it. Dont watch a tutorial.
+[Unity documentation](https://docs.unity.com/en-us) is the best use case for finding what a method did and finding methods. Like OnTriggerEnter2D, Maybe you forgot the name or how to use it. Dont watch a tutorial.
