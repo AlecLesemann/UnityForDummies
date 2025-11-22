@@ -8,3 +8,5 @@ Email alecleseman@gmail.com and give me ideas, If they are mentioned I will ment
 Alec - Owner
 Andy - Big helper in terms of ideas
 Brayden - he is just here.
+
+# Wiki 
