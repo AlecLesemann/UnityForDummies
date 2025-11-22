@@ -10,4 +10,4 @@ Andy - Big helper in terms of ideas
 Brayden - he is just here.
 
 # Wiki 
-[Collisions](https://github.com/AlecLesemann/UnityForDummies/edit/main/test.md)
+[Collisions](https://github.com/AlecLesemann/UnityForDummies/test.md)
