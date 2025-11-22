@@ -11,3 +11,5 @@ Brayden - he is just here.
 
 # Wiki 
 [Collisions](https://github.com/AlecLesemann/UnityForDummies/blob/main/collisions.md)
+[Indentations](https://github.com/AlecLesemann/UnityForDummies/blob/main/indentation.md)
+[Setting up](https://github.com/AlecLesemann/UnityForDummies/blob/main/settingup.md)
