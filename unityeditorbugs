@@ -1,0 +1,7 @@
+# Unity editor bugs
+I've encountered one single bug with the ui/inspector, it hides stuff and cant access giving you a bunch of errors, like you can't access the inspector with lists and stuff because its blank
+This is not a skill issue, its unity being crappy.
+How to fix - Go to preferences and go to editor, Then set IMGUI to true.
+This usually fixes the problems.
+If your having some issues with that, and you found a fix, please email me.
+
