@@ -11,9 +11,5 @@ Andy - Big helper in terms of ideas
 
 Brayden - he is just here.
 
-# Wiki 
-[Collisions](https://github.com/AlecLesemann/UnityForDummies/blob/main/collisions.md)
-
-[Indentations](https://github.com/AlecLesemann/UnityForDummies/blob/main/indentation.md)
-
-[Setting up](https://github.com/AlecLesemann/UnityForDummies/blob/main/settingup.md)
+# How to use
+To use, click on any file on the main branch, this has fixes and more.
