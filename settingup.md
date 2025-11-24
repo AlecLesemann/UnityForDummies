@@ -18,14 +18,7 @@ How to fix - Go to preferences and go to editor, Then set IMGUI to true.
 This usually fixes the problems.
 If your having some issues with that, and you found a fix, please email me.
 
-# Indentation
-When creating scripts, and its not working, try using proper [Indentation](https://www.w3schools.com/python/gloss_python_indentation.asp) like python.
 
-# Getting out of tutorial hell
-Tutorial hell is basically when YOU watch too MANY tutorials without being able to actually code anything.
-Please stop using more tutorials and just doing the exact same thing.
-How to fix - Change it up, Without out a tutorial. Create new lines, maybe you want it to do this method instead of another.
-Eg. I want to use overlap circles instead of ontriggers.
 
 # Use documentation
 [Unity documentation](https://docs.unity.com/en-us) is the best use case for finding what a method did and finding methods. Like OnTriggerEnter2D, Maybe you forgot the name or how to use it. Dont watch a tutorial.
